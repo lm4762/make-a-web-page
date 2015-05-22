@@ -1,0 +1,45 @@
+/* This is a CSS comment */
+body {
+	padding: 20px 10px;
+	font-family: Cursive;
+	max-width: 2000px;
+	margin: 0 auto; /* The 0 refers to the top and bottom margins and the "auto" automatically */
+	font-size: 1.4em;
+
+}                 /* sets the left and right margins to equal values. This centers the body on the page.*/
+.lesson {
+	background-color: #2A2960;
+	border-radius: 20px;
+	color: white;
+	padding: 10px;
+	margin: 10px auto;
+}
+.concept-title {
+	font-size: 28px;
+	margin: 8px;
+	text-align: center;
+	color: white;
+	background-color: rgb(0, 119, 255);
+	border-radius: 10px;
+}
+.concept-description {
+	font-weight: lighter;
+	background-color: #F1E3DF;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 10px;
+	color: black;
+}
+
+h1 {
+	text-align: center;
+	color: #294860;
+	background-color: rgb(255, 39, 0);
+	border-radius: 10px;
+}
+p {
+	margin: 10px 0;
+}
+h2 {
+	margin: 10px;
+}
